@@ -84,7 +84,7 @@ class Smartphone(Base):
     is_active: Mapped[bool] = mapped_column(Boolean, default=True, index=True)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())
     updated_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), onupdate=func.now())
-    prices: Mapped[list["SmartphonePrice"]] = relationship(back_populates="smartphone")
+    prices: Mapped[list["SmartphonePrice"]] = relationship(back_populates="smartphone", cascade="all, delete-orphan")
 
 
 class SmartphonePrice(Base):
@@ -119,7 +119,7 @@ class User(Base):
     total_quizzes: Mapped[int] = mapped_column(default=0)
     is_active: Mapped[bool] = mapped_column(Boolean, default=True)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())
-    quiz_sessions: Mapped[list["QuizSession"]] = relationship(back_populates="user")
+    quiz_sessions: Mapped[list["QuizSession"]] = relationship(back_populates="user", cascade="all, delete-orphan")
 
 
 class QuizSession(Base):

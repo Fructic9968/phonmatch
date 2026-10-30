@@ -22,7 +22,10 @@ async def start(message: Message) -> None:
         statement = insert(User).values(
             telegram_id=user.id, username=user.username, first_name=user.first_name,
             language_code=user.language_code or "ru",
-        ).on_conflict_do_nothing(index_elements=[User.telegram_id])
+        ).on_conflict_do_update(
+            index_elements=[User.telegram_id],
+            set_={"username": user.username, "first_name": user.first_name},
+        )
         await session.execute(statement)
         await session.commit()
     await message.answer(
