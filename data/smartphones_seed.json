@@ -1,0 +1,2777 @@
+[
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi 14C",
+    "slug": "xiaomi-redmi-14c-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.88,
+    "display_refresh_rate": 120,
+    "processor": "Helio G81 Ultra",
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "battery_mah": 5160,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 204,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.4,
+    "score_overall": 6.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 10990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 9780
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi 13C",
+    "slug": "xiaomi-redmi-13c-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.74,
+    "display_refresh_rate": 90,
+    "processor": "Helio G85",
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 192,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.1,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 9990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 8890
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi 12",
+    "slug": "xiaomi-redmi-12-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.79,
+    "display_refresh_rate": 90,
+    "processor": "Helio G88",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP53",
+    "weight_g": 198,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.1,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 11990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 10670
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi A3",
+    "slug": "xiaomi-redmi-a3-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.71,
+    "display_refresh_rate": 90,
+    "processor": "Helio G36",
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 8,
+    "has_nfc": false,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 193,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.1,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 7990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 7110
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi A4 5G",
+    "slug": "xiaomi-redmi-a4-5g-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.88,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 4s Gen 2",
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "battery_mah": 5160,
+    "camera_main_mp": 50,
+    "has_nfc": false,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 212,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.4,
+    "score_overall": 6.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 9990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 8890
+      }
+    ]
+  },
+  {
+    "brand": "POCO",
+    "model": "C75",
+    "slug": "poco-c75-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.88,
+    "display_refresh_rate": 120,
+    "processor": "Helio G81 Ultra",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "battery_mah": 5160,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 204,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.4,
+    "score_overall": 6.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 10990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 9780
+      }
+    ]
+  },
+  {
+    "brand": "POCO",
+    "model": "C65",
+    "slug": "poco-c65-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.74,
+    "display_refresh_rate": 90,
+    "processor": "Helio G85",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 192,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.1,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 9990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 8890
+      }
+    ]
+  },
+  {
+    "brand": "Realme",
+    "model": "C67",
+    "slug": "realme-c67-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.72,
+    "display_refresh_rate": 90,
+    "processor": "Snapdragon 685",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 108,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 185,
+    "image_url": null,
+    "score_camera": 6.5,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.1,
+    "score_overall": 6.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 13990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 12450
+      }
+    ]
+  },
+  {
+    "brand": "Realme",
+    "model": "C63",
+    "slug": "realme-c63-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.74,
+    "display_refresh_rate": 90,
+    "processor": "Unisoc T612",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 189,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.1,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 11990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 10670
+      }
+    ]
+  },
+  {
+    "brand": "Realme",
+    "model": "Note 60",
+    "slug": "realme-note-60-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.74,
+    "display_refresh_rate": 90,
+    "processor": "Unisoc T612",
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 32,
+    "has_nfc": false,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP64",
+    "weight_g": 187,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.1,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 8990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "brand": "Realme",
+    "model": "C61",
+    "slug": "realme-c61-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.74,
+    "display_refresh_rate": 90,
+    "processor": "Unisoc T612",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 188,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.1,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 10990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 9780
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A06",
+    "slug": "samsung-galaxy-a06-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 60,
+    "processor": "Helio G85",
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 189,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 5.9,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 11990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 10670
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A05",
+    "slug": "samsung-galaxy-a05-64gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 60,
+    "processor": "Helio G85",
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 195,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 5.9,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 9990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 8890
+      }
+    ]
+  },
+  {
+    "brand": "Honor",
+    "model": "X5 Plus",
+    "slug": "honor-x5-plus-64gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.56,
+    "display_refresh_rate": 90,
+    "processor": "Helio G36",
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "battery_mah": 5200,
+    "camera_main_mp": 50,
+    "has_nfc": false,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 188,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.1,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 8990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "brand": "Honor",
+    "model": "X6b",
+    "slug": "honor-x6b-128gb",
+    "budget_class": "budget",
+    "os": "android",
+    "display_size": 6.56,
+    "display_refresh_rate": 90,
+    "processor": "Helio G85",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "battery_mah": 5200,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 192,
+    "image_url": null,
+    "score_camera": 6.1,
+    "score_performance": 6.1,
+    "score_battery": 6.2,
+    "score_display": 6.1,
+    "score_overall": 6.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 11990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 10670
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 14",
+    "slug": "xiaomi-redmi-note-14-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Helio G99 Ultra",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5500,
+    "camera_main_mp": 108,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 196,
+    "image_url": null,
+    "score_camera": 7.1,
+    "score_performance": 6.7,
+    "score_battery": 7.2,
+    "score_display": 7.0,
+    "score_overall": 7.0,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 19990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 17790
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13",
+    "slug": "xiaomi-redmi-note-13-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 685",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 108,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 188,
+    "image_url": null,
+    "score_camera": 7.1,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 7.0,
+    "score_overall": 6.9,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 18990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 16900
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13 Pro 4G",
+    "slug": "xiaomi-redmi-note-13-pro-4g-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Helio G99 Ultra",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 200,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 188,
+    "image_url": null,
+    "score_camera": 7.1,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 7.0,
+    "score_overall": 6.9,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 23990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 21350
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 14 5G",
+    "slug": "xiaomi-redmi-note-14-5g-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Dimensity 7025 Ultra",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5110,
+    "camera_main_mp": 108,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP64",
+    "weight_g": 190,
+    "image_url": null,
+    "score_camera": 7.1,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 7.0,
+    "score_overall": 6.9,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 24990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 22240
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A16",
+    "slug": "samsung-galaxy-a16-128gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 90,
+    "processor": "Helio G99",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 200,
+    "image_url": null,
+    "score_camera": 6.7,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 6.7,
+    "score_overall": 6.7,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 17990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 16010
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A25 5G",
+    "slug": "samsung-galaxy-a25-5g-128gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.5,
+    "display_refresh_rate": 120,
+    "processor": "Exynos 1280",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 197,
+    "image_url": null,
+    "score_camera": 6.7,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 7.0,
+    "score_overall": 6.8,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 22990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 20460
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A15",
+    "slug": "samsung-galaxy-a15-128gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.5,
+    "display_refresh_rate": 90,
+    "processor": "Helio G99",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 200,
+    "image_url": null,
+    "score_camera": 6.7,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 6.7,
+    "score_overall": 6.7,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 16990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 15120
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A35 5G",
+    "slug": "samsung-galaxy-a35-5g-128gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.6,
+    "display_refresh_rate": 120,
+    "processor": "Exynos 1380",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP67",
+    "weight_g": 209,
+    "image_url": null,
+    "score_camera": 6.7,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 7.0,
+    "score_overall": 6.8,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 24990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 22240
+      }
+    ]
+  },
+  {
+    "brand": "POCO",
+    "model": "M6 Pro",
+    "slug": "poco-m6-pro-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Helio G99 Ultra",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 64,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 179,
+    "image_url": null,
+    "score_camera": 6.7,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 7.0,
+    "score_overall": 6.8,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 19990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 17790
+      }
+    ]
+  },
+  {
+    "brand": "POCO",
+    "model": "X6 5G",
+    "slug": "poco-x6-5g-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 7s Gen 2",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5100,
+    "camera_main_mp": 64,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 181,
+    "image_url": null,
+    "score_camera": 6.7,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 7.0,
+    "score_overall": 6.8,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 24990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 22240
+      }
+    ]
+  },
+  {
+    "brand": "POCO",
+    "model": "M7 Pro 5G",
+    "slug": "poco-m7-pro-5g-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Dimensity 7025 Ultra",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5110,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP64",
+    "weight_g": 190,
+    "image_url": null,
+    "score_camera": 6.7,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 7.0,
+    "score_overall": 6.8,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 22990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 20460
+      }
+    ]
+  },
+  {
+    "brand": "Realme",
+    "model": "12 4G",
+    "slug": "realme-12-4g-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 685",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 187,
+    "image_url": null,
+    "score_camera": 6.7,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 7.0,
+    "score_overall": 6.8,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 21990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 19570
+      }
+    ]
+  },
+  {
+    "brand": "Realme",
+    "model": "13 4G",
+    "slug": "realme-13-4g-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 685",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP64",
+    "weight_g": 187,
+    "image_url": null,
+    "score_camera": 6.7,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 7.0,
+    "score_overall": 6.8,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 23990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 21350
+      }
+    ]
+  },
+  {
+    "brand": "Honor",
+    "model": "X8b",
+    "slug": "honor-x8b-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 90,
+    "processor": "Snapdragon 680",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 4500,
+    "camera_main_mp": 108,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 166,
+    "image_url": null,
+    "score_camera": 7.1,
+    "score_performance": 6.7,
+    "score_battery": 6.8,
+    "score_display": 6.7,
+    "score_overall": 6.8,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 19990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 17790
+      }
+    ]
+  },
+  {
+    "brand": "Honor",
+    "model": "X7c",
+    "slug": "honor-x7c-256gb",
+    "budget_class": "lower_mid",
+    "os": "android",
+    "display_size": 6.77,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 685",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 6000,
+    "camera_main_mp": 108,
+    "has_nfc": true,
+    "has_5g": false,
+    "has_wireless_charging": false,
+    "water_resistance": "IP64",
+    "weight_g": 196,
+    "image_url": null,
+    "score_camera": 7.1,
+    "score_performance": 6.7,
+    "score_battery": 7.2,
+    "score_display": 7.0,
+    "score_overall": 7.0,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 19990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 17790
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A56 5G",
+    "slug": "samsung-galaxy-a56-5g-128gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 120,
+    "processor": "Exynos 1580",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP67",
+    "weight_g": 198,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 39990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 35590
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A55 5G",
+    "slug": "samsung-galaxy-a55-5g-128gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.6,
+    "display_refresh_rate": 120,
+    "processor": "Exynos 1480",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP67",
+    "weight_g": 213,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 34990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 31140
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A36 5G",
+    "slug": "samsung-galaxy-a36-5g-128gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 6 Gen 3",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP67",
+    "weight_g": 195,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 32990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 29360
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "14T",
+    "slug": "xiaomi-14t-256gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 144,
+    "processor": "Dimensity 8300 Ultra",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP68",
+    "weight_g": 195,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 39990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 35590
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "13T",
+    "slug": "xiaomi-13t-256gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 144,
+    "processor": "Dimensity 8200 Ultra",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP68",
+    "weight_g": 193,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 36990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 32920
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 14 Pro 5G",
+    "slug": "xiaomi-redmi-note-14-pro-5g-256gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Dimensity 7300 Ultra",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5110,
+    "camera_main_mp": 200,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP68",
+    "weight_g": 190,
+    "image_url": null,
+    "score_camera": 7.8,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.6,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 32990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 29360
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13 Pro 5G",
+    "slug": "xiaomi-redmi-note-13-pro-5g-256gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 7s Gen 2",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5100,
+    "camera_main_mp": 200,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 187,
+    "image_url": null,
+    "score_camera": 7.8,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.6,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 27990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 24910
+      }
+    ]
+  },
+  {
+    "brand": "POCO",
+    "model": "X7",
+    "slug": "poco-x7-256gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Dimensity 7300 Ultra",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5110,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP68",
+    "weight_g": 185,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 29990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 26690
+      }
+    ]
+  },
+  {
+    "brand": "POCO",
+    "model": "X7 Pro",
+    "slug": "poco-x7-pro-256gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Dimensity 8400 Ultra",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 6000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP68",
+    "weight_g": 195,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.8,
+    "score_battery": 7.9,
+    "score_display": 7.7,
+    "score_overall": 7.7,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 36990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 32920
+      }
+    ]
+  },
+  {
+    "brand": "POCO",
+    "model": "F6",
+    "slug": "poco-f6-256gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8s Gen 3",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP64",
+    "weight_g": 179,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 36990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 32920
+      }
+    ]
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (2a)",
+    "slug": "nothing-phone-2a-128gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 120,
+    "processor": "Dimensity 7200 Pro",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 190,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 32990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 29360
+      }
+    ]
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (2a) Plus",
+    "slug": "nothing-phone-2a-plus-256gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 120,
+    "processor": "Dimensity 7350 Pro",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 190,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 39990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 35590
+      }
+    ]
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 7a",
+    "slug": "google-pixel-7a-128gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.1,
+    "display_refresh_rate": 90,
+    "processor": "Google Tensor G2",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 4385,
+    "camera_main_mp": 64,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP67",
+    "weight_g": 193,
+    "image_url": null,
+    "score_camera": 7.6,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.4,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 34990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 31140
+      }
+    ]
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord 4",
+    "slug": "oneplus-nord-4-256gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.74,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 7 Plus Gen 3",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5500,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP65",
+    "weight_g": 199,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.9,
+    "score_display": 7.7,
+    "score_overall": 7.6,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 39990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 35590
+      }
+    ]
+  },
+  {
+    "brand": "Honor",
+    "model": "200",
+    "slug": "honor-200-256gb",
+    "budget_class": "mid",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 7 Gen 3",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5200,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": null,
+    "weight_g": 187,
+    "image_url": null,
+    "score_camera": 7.4,
+    "score_performance": 7.4,
+    "score_battery": 7.5,
+    "score_display": 7.7,
+    "score_overall": 7.5,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 39990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 35590
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S24 FE",
+    "slug": "samsung-galaxy-s24-fe-128gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 120,
+    "processor": "Exynos 2400e",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 4700,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 213,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 8.2,
+    "score_display": 8.4,
+    "score_overall": 8.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 59990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 53390
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S23 FE",
+    "slug": "samsung-galaxy-s23-fe-128gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.4,
+    "display_refresh_rate": 120,
+    "processor": "Exynos 2200",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 4500,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 209,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 8.2,
+    "score_display": 8.4,
+    "score_overall": 8.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 44990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 40040
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S23",
+    "slug": "samsung-galaxy-s23-128gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.1,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Gen 2 for Galaxy",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 3900,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 168,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 7.7,
+    "score_display": 8.4,
+    "score_overall": 8.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 54990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 48940
+      }
+    ]
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 8a",
+    "slug": "google-pixel-8a-128gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.1,
+    "display_refresh_rate": 120,
+    "processor": "Google Tensor G3",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 4492,
+    "camera_main_mp": 64,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP67",
+    "weight_g": 188,
+    "image_url": null,
+    "score_camera": 8.3,
+    "score_performance": 8.1,
+    "score_battery": 8.2,
+    "score_display": 8.4,
+    "score_overall": 8.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 49990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 44490
+      }
+    ]
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 8",
+    "slug": "google-pixel-8-128gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.2,
+    "display_refresh_rate": 120,
+    "processor": "Google Tensor G3",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 4575,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 187,
+    "image_url": null,
+    "score_camera": 8.3,
+    "score_performance": 8.1,
+    "score_battery": 8.2,
+    "score_display": 8.4,
+    "score_overall": 8.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 54990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 48940
+      }
+    ]
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 9a",
+    "slug": "google-pixel-9a-128gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.3,
+    "display_refresh_rate": 120,
+    "processor": "Google Tensor G4",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 5100,
+    "camera_main_mp": 48,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 185,
+    "image_url": null,
+    "score_camera": 8.3,
+    "score_performance": 8.1,
+    "score_battery": 8.2,
+    "score_display": 8.4,
+    "score_overall": 8.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 59990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 53390
+      }
+    ]
+  },
+  {
+    "brand": "OnePlus",
+    "model": "13R",
+    "slug": "oneplus-13r-256gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.78,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Gen 3",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 6000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP65",
+    "weight_g": 206,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.5,
+    "score_battery": 8.6,
+    "score_display": 8.4,
+    "score_overall": 8.4,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 59990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 53390
+      }
+    ]
+  },
+  {
+    "brand": "OnePlus",
+    "model": "12R",
+    "slug": "oneplus-12r-256gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.78,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Gen 2",
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "battery_mah": 5500,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP64",
+    "weight_g": 207,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 8.6,
+    "score_display": 8.4,
+    "score_overall": 8.3,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 49990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 44490
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "14T Pro",
+    "slug": "xiaomi-14t-pro-512gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 144,
+    "processor": "Dimensity 9300 Plus",
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 209,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 8.2,
+    "score_display": 8.4,
+    "score_overall": 8.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 59990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 53390
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "13",
+    "slug": "xiaomi-13-256gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.36,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Gen 2",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 4500,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 189,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 8.2,
+    "score_display": 8.4,
+    "score_overall": 8.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 54990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 48940
+      }
+    ]
+  },
+  {
+    "brand": "POCO",
+    "model": "F7",
+    "slug": "poco-f7-256gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.83,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8s Gen 4",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 6500,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP68",
+    "weight_g": 215,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 8.6,
+    "score_display": 8.4,
+    "score_overall": 8.3,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 49990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 44490
+      }
+    ]
+  },
+  {
+    "brand": "POCO",
+    "model": "F6 Pro",
+    "slug": "poco-f6-pro-512gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.67,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Gen 2",
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "battery_mah": 5000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP54",
+    "weight_g": 209,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 8.2,
+    "score_display": 8.4,
+    "score_overall": 8.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 49990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 44490
+      }
+    ]
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (2)",
+    "slug": "nothing-phone-2-256gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Plus Gen 1",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 4700,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP54",
+    "weight_g": 201,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 8.2,
+    "score_display": 8.4,
+    "score_overall": 8.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 49990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 44490
+      }
+    ]
+  },
+  {
+    "brand": "Honor",
+    "model": "200 Pro",
+    "slug": "honor-200-pro-512gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.78,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8s Gen 3",
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "battery_mah": 5200,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP65",
+    "weight_g": 199,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 8.2,
+    "score_display": 8.4,
+    "score_overall": 8.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 59990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 53390
+      }
+    ]
+  },
+  {
+    "brand": "Realme",
+    "model": "GT 6",
+    "slug": "realme-gt-6-256gb",
+    "budget_class": "upper_mid",
+    "os": "android",
+    "display_size": 6.78,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8s Gen 3",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5500,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": false,
+    "water_resistance": "IP65",
+    "weight_g": 199,
+    "image_url": null,
+    "score_camera": 8.1,
+    "score_performance": 8.1,
+    "score_battery": 8.6,
+    "score_display": 8.4,
+    "score_overall": 8.3,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 54990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 48940
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S25 Ultra",
+    "slug": "samsung-galaxy-s25-ultra-256gb",
+    "budget_class": "flagship",
+    "os": "android",
+    "display_size": 6.9,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Elite for Galaxy",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 200,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 218,
+    "image_url": null,
+    "score_camera": 9.3,
+    "score_performance": 9.3,
+    "score_battery": 9.0,
+    "score_display": 9.2,
+    "score_overall": 9.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 109990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 97890
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S25 Plus",
+    "slug": "samsung-galaxy-s25-plus-256gb",
+    "budget_class": "flagship",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Elite for Galaxy",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 4900,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 190,
+    "image_url": null,
+    "score_camera": 8.9,
+    "score_performance": 9.3,
+    "score_battery": 9.0,
+    "score_display": 9.2,
+    "score_overall": 9.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 99990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 88990
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S25",
+    "slug": "samsung-galaxy-s25-256gb",
+    "budget_class": "flagship",
+    "os": "android",
+    "display_size": 6.2,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Elite for Galaxy",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 4000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 162,
+    "image_url": null,
+    "score_camera": 8.9,
+    "score_performance": 9.3,
+    "score_battery": 9.0,
+    "score_display": 9.2,
+    "score_overall": 9.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 89990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 80090
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "slug": "samsung-galaxy-s24-ultra-256gb",
+    "budget_class": "flagship",
+    "os": "android",
+    "display_size": 6.8,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Gen 3 for Galaxy",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "camera_main_mp": 200,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 232,
+    "image_url": null,
+    "score_camera": 9.3,
+    "score_performance": 9.3,
+    "score_battery": 9.0,
+    "score_display": 9.2,
+    "score_overall": 9.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 99990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 88990
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S24 Plus",
+    "slug": "samsung-galaxy-s24-plus-256gb",
+    "budget_class": "flagship",
+    "os": "android",
+    "display_size": 6.7,
+    "display_refresh_rate": 120,
+    "processor": "Exynos 2400",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 4900,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 196,
+    "image_url": null,
+    "score_camera": 8.9,
+    "score_performance": 8.9,
+    "score_battery": 9.0,
+    "score_display": 9.2,
+    "score_overall": 9.0,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 79990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 71190
+      }
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 16 Pro",
+    "slug": "apple-iphone-16-pro-256gb",
+    "budget_class": "flagship",
+    "os": "ios",
+    "display_size": 6.3,
+    "display_refresh_rate": 120,
+    "processor": "Apple A18 Pro",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 3582,
+    "camera_main_mp": 48,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 199,
+    "image_url": null,
+    "score_camera": 9.1,
+    "score_performance": 9.3,
+    "score_battery": 8.5,
+    "score_display": 9.2,
+    "score_overall": 9.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 119990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 106790
+      }
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "slug": "apple-iphone-16-pro-max-256gb",
+    "budget_class": "flagship",
+    "os": "ios",
+    "display_size": 6.9,
+    "display_refresh_rate": 120,
+    "processor": "Apple A18 Pro",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 4685,
+    "camera_main_mp": 48,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 227,
+    "image_url": null,
+    "score_camera": 9.1,
+    "score_performance": 9.3,
+    "score_battery": 9.0,
+    "score_display": 9.2,
+    "score_overall": 9.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 139990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 124590
+      }
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 16",
+    "slug": "apple-iphone-16-128gb",
+    "budget_class": "flagship",
+    "os": "ios",
+    "display_size": 6.1,
+    "display_refresh_rate": 60,
+    "processor": "Apple A18",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 3561,
+    "camera_main_mp": 48,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 170,
+    "image_url": null,
+    "score_camera": 9.1,
+    "score_performance": 9.3,
+    "score_battery": 8.5,
+    "score_display": 8.7,
+    "score_overall": 9.0,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 84990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 75640
+      }
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 16 Plus",
+    "slug": "apple-iphone-16-plus-128gb",
+    "budget_class": "flagship",
+    "os": "ios",
+    "display_size": 6.7,
+    "display_refresh_rate": 60,
+    "processor": "Apple A18",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 4674,
+    "camera_main_mp": 48,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 199,
+    "image_url": null,
+    "score_camera": 9.1,
+    "score_performance": 9.3,
+    "score_battery": 9.0,
+    "score_display": 8.7,
+    "score_overall": 9.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 99990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 88990
+      }
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "slug": "apple-iphone-15-pro-128gb",
+    "budget_class": "flagship",
+    "os": "ios",
+    "display_size": 6.1,
+    "display_refresh_rate": 120,
+    "processor": "Apple A17 Pro",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 3274,
+    "camera_main_mp": 48,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 187,
+    "image_url": null,
+    "score_camera": 9.1,
+    "score_performance": 8.9,
+    "score_battery": 8.5,
+    "score_display": 9.2,
+    "score_overall": 9.0,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 89990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 80090
+      }
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "slug": "apple-iphone-15-pro-max-256gb",
+    "budget_class": "flagship",
+    "os": "ios",
+    "display_size": 6.7,
+    "display_refresh_rate": 120,
+    "processor": "Apple A17 Pro",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 4422,
+    "camera_main_mp": 48,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 221,
+    "image_url": null,
+    "score_camera": 9.1,
+    "score_performance": 8.9,
+    "score_battery": 9.0,
+    "score_display": 9.2,
+    "score_overall": 9.0,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 109990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 97890
+      }
+    ]
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 9 Pro",
+    "slug": "google-pixel-9-pro-128gb",
+    "budget_class": "flagship",
+    "os": "android",
+    "display_size": 6.3,
+    "display_refresh_rate": 120,
+    "processor": "Google Tensor G4",
+    "ram_gb": 16,
+    "storage_gb": 128,
+    "battery_mah": 4700,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 199,
+    "image_url": null,
+    "score_camera": 9.1,
+    "score_performance": 8.9,
+    "score_battery": 9.0,
+    "score_display": 9.2,
+    "score_overall": 9.0,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 99990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 88990
+      }
+    ]
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 9 Pro XL",
+    "slug": "google-pixel-9-pro-xl-256gb",
+    "budget_class": "flagship",
+    "os": "android",
+    "display_size": 6.8,
+    "display_refresh_rate": 120,
+    "processor": "Google Tensor G4",
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "battery_mah": 5060,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 221,
+    "image_url": null,
+    "score_camera": 9.1,
+    "score_performance": 8.9,
+    "score_battery": 9.0,
+    "score_display": 9.2,
+    "score_overall": 9.0,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 119990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 106790
+      }
+    ]
+  },
+  {
+    "brand": "OnePlus",
+    "model": "13",
+    "slug": "oneplus-13-256gb",
+    "budget_class": "flagship",
+    "os": "android",
+    "display_size": 6.82,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Elite",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 6000,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP69",
+    "weight_g": 210,
+    "image_url": null,
+    "score_camera": 8.9,
+    "score_performance": 9.3,
+    "score_battery": 9.4,
+    "score_display": 9.2,
+    "score_overall": 9.2,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 99990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 88990
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "15",
+    "slug": "xiaomi-15-256gb",
+    "budget_class": "flagship",
+    "os": "android",
+    "display_size": 6.36,
+    "display_refresh_rate": 120,
+    "processor": "Snapdragon 8 Elite",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5240,
+    "camera_main_mp": 50,
+    "has_nfc": true,
+    "has_5g": true,
+    "has_wireless_charging": true,
+    "water_resistance": "IP68",
+    "weight_g": 191,
+    "image_url": null,
+    "score_camera": 8.9,
+    "score_performance": 9.3,
+    "score_battery": 9.0,
+    "score_display": 9.2,
+    "score_overall": 9.1,
+    "prices": [
+      {
+        "channel": "retailer",
+        "store_name": "DNS",
+        "price": 99990
+      },
+      {
+        "channel": "marketplace",
+        "store_name": "Ozon",
+        "price": 88990
+      }
+    ]
+  }
+]
