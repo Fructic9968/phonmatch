@@ -1,33 +1,47 @@
 """Приветствие, регистрация пользователя и выбор квиза."""
 
+import logging
+
 from aiogram import Router
 from aiogram.filters import CommandStart
-from aiogram.types import CallbackQuery, Message
+from aiogram.fsm.context import FSMContext
+from aiogram.types import Message
 from sqlalchemy.dialects.postgresql import insert
 
-from bot.keyboards.inline import QuizTypeCallback, quiz_type_keyboard
+from bot.keyboards.inline import interrupt_keyboard, quiz_type_keyboard
 from db.database import get_session
 from db.models import User
 
 router = Router()
+logger = logging.getLogger(__name__)
 
 
 @router.message(CommandStart())
-async def start(message: Message) -> None:
-    """Зарегистрировать нового пользователя и предложить выбор квиза."""
+async def start(message: Message, state: FSMContext) -> None:
+    """Зарегистрировать пользователя и предложить выбор квиза."""
     if message.from_user is None:
         return
     user = message.from_user
-    async with get_session() as session:
-        statement = insert(User).values(
-            telegram_id=user.id, username=user.username, first_name=user.first_name,
-            language_code=user.language_code or "ru",
-        ).on_conflict_do_update(
-            index_elements=[User.telegram_id],
-            set_={"username": user.username, "first_name": user.first_name},
-        )
-        await session.execute(statement)
-        await session.commit()
+    try:
+        async with get_session() as session:
+            statement = insert(User).values(
+                telegram_id=user.id, username=user.username, first_name=user.first_name,
+                language_code=user.language_code or "ru",
+            ).on_conflict_do_update(
+                index_elements=[User.telegram_id],
+                set_={"username": user.username, "first_name": user.first_name},
+            )
+            await session.execute(statement)
+            await session.commit()
+    except Exception:
+        logger.exception("Ошибка регистрации пользователя")
+        await message.answer("Не удалось подключиться к базе данных. Попробуйте позже.")
+        return
+    if await state.get_state() is not None:
+        prompt = await message.answer("Прервать текущий квиз?", reply_markup=interrupt_keyboard())
+        await state.update_data(interrupt_message_id=prompt.message_id)
+        return
+    await state.clear()
     await message.answer(
         "👋 Привет! Я PhonMatch — помогу подобрать идеальный смартфон!\n\n"
         "Выбери тип подбора:\n\n"
@@ -36,9 +50,3 @@ async def start(message: Message) -> None:
         "🎯 Точный (14 вопросов) — за 5 минут",
         reply_markup=quiz_type_keyboard(),
     )
-
-
-@router.callback_query(QuizTypeCallback.filter())
-async def choose_quiz(callback: CallbackQuery, callback_data: QuizTypeCallback) -> None:
-    """Подтвердить нажатие до реализации квиза."""
-    await callback.answer("🚧 Квиз в разработке!", show_alert=True)
